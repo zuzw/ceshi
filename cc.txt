@@ -1,3 +1,4 @@
 ceshi
 ceshi!
 dev  cccccccccccccccccc!
+Creating a new branch is quick & simple.
